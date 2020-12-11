@@ -5,7 +5,7 @@ with open("Readme.md", "r", encoding="utf-8") as readme_descriptor:
 
 setuptools.setup(
     name = "mailsender",
-    version = "0.1",
+    version = "1.0",
     author = "Lucas Pauzies",
     author_email = "lucas.pauzies@hotmail.fr",
     description = "A simple package to interact with mail sending",
