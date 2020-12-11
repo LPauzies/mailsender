@@ -4,7 +4,7 @@ A simple package to interact with mail sending
 ## Features:
 - HTML and/or TXT content.
 - TLS support.
-- Multiple direct mail
+- Multiple direct mail.
 
 
 ## Installation
